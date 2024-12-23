@@ -1,7 +1,7 @@
 {
   // Name this configuration
   "name": "Codespace for skilled",
-  "customisations": {
+  "customizations": {
     "vscode": {
       "extensions": [
         "GitHub.copoilot"
